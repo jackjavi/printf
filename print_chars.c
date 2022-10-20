@@ -60,7 +60,8 @@ static int hex_print(char c)
 }
 
 /**
- * print_S - prints a string and nonprintable character ascii values * @S: string to print
+ * print_S - prints a string and nonprintable character ascii values
+ * @S: string to print
  *
  * Return: number of chars printed
  */
